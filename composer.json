@@ -1,0 +1,8 @@
+{
+  "config": {
+        "vendor-dir": "web/vendor"
+    },
+    "require": {
+        "twbs/bootstrap":"4.0.0-alpha-6"
+    }
+}
